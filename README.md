@@ -44,13 +44,6 @@
 
 ---
 
-### 📊 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaryabAhmar&layout=compact&theme=dark&langs_count=8&hide_border=false" />
-</p>
-
----
-
 ### 📫 **Let's Connect!**
 💌 Email: [zaryab.bitd@gmail.com](mailto:zaryab.bitd@gmail.com)  
 🔗 LinkedIn: [Zaryab Ahmar](https://www.linkedin.com/in/zaryab-ahmar-36110b2b9)  

@@ -48,4 +48,4 @@
 💌 Email: [zaryab.bitd@gmail.com](mailto:zaryab.bitd@gmail.com)  
 🔗 LinkedIn: [Zaryab Ahmar](https://www.linkedin.com/in/zaryab-ahmar-36110b2b9)  
 🌍 Portfolio: **[Check out my work](https://zaryabportfoliohere.netlify.app/)**  
-🚀 GitHub: [ZaryabAhmar](https://github.com/ZaryabAhmar)  
+🚀 GitHub: [ZaryabAhmar](https://github.com/Zaryok)  
